@@ -22,7 +22,7 @@
   <dt>Enlaces:</dt>
   <dd>
     <ul>
-      <li>Colab: <a href="https://colab.research.google.com/drive/1Zo_UgcdYBBjlQavGjPzolYDv3kUrlICq?usp=sharing">https://colab.research.google.com/drive/1Zo_UgcdYBBjlQavGjPzolYDv3kUrlICq?usp=sharing</a></li>
+      <li>Colab: <a href="https://colab.research.google.com/drive/1Zo_UgcdYBBjlQavGjPzolYDv3kUrlICq?usp=sharing">colab.research.google.com/drive/1Zo_UgcdYBBjlQavGjPzolYDv3kUrlICq?usp=sharing</a></li>
       <li>GitHub: <a href="https://github.com/JUANSSE/IA-1-Project.git">github.com/JUANSSE/IA-1-Project.git</a></li>
       <li>Video: <a href="https://youtu.be/FOIzWgpi1Z8">youtu.be/FOIzWgpi1Z8</a></li>
     </ul>
