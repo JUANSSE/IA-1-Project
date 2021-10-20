@@ -1,5 +1,5 @@
 <h1>PREVENCION DE ACCIDENTES DE TRANSITO </h1>
-<a href="https://ibb.co/ZXCzBpy"><img src="https://i.ibb.co/C8FKb3x/Traffic-accident-prevention.png" alt="Traffic-accident-prevention" border="0"></a>
+<a href="https://ibb.co/bmtMhzk"><img src="https://i.ibb.co/F3pLvgF/Banner.png" alt="Banner" border="0"></a>
 <dl>
   <dt>Autores:</dt>
   <dd>Juan González, Iván Cárdenas, Diego Landinez.</dd>
